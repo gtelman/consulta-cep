@@ -1,0 +1,13 @@
+body{
+	background-color: #000;
+	font-family: 'Hind Siliguri', sans-serif;
+	color: #FFF;
+}
+
+.container{
+	justify-content: left;
+}
+
+h1{
+	text-align: center;
+}
